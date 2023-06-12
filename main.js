@@ -9,4 +9,4 @@ let res = function() {
     return result
 }
 
-console.log(name + ', Ваш возраст ' + res(
+console.log(name + ', Ваш возраст ' + res());
